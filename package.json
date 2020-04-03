@@ -1,5 +1,5 @@
 {
-  "name": "webpack_build_2020",
+  "name": "webpack-build-pengcjun",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -17,10 +17,7 @@
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.20.2",
-    "glob-all": "^3.1.0",
-    "istanbul": "^0.4.5",
-    "mocha": "^6.1.4",
-    "rimraf": "^2.6.3"
+    "istanbul": "^0.4.5"
   },
   "dependencies": {
     "@babel/core": "^7.9.0",
@@ -36,6 +33,7 @@
     "file-loader": "^3.0.1",
     "friendly-errors-webpack-plugin": "^1.7.0",
     "glob": "^7.1.4",
+    "glob-all": "^3.2.1",
     "html-inline-css-webpack-plugin": "^1.2.1",
     "html-loader": "^0.5.5",
     "html-webpack-externals-plugin": "^3.8.0",
@@ -44,6 +42,7 @@
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "mini-css-extract-plugin": "^0.6.0",
+    "mocha": "^7.1.1",
     "node-notifier": "^5.4.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
@@ -52,6 +51,7 @@
     "raw-loader": "^0.5.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "rimraf": "^3.0.2",
     "style-loader": "^0.23.1",
     "uglifyjs-webpack-plugin": "^2.1.2",
     "url-loader": "^1.1.2",
